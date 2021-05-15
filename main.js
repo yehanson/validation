@@ -49,5 +49,5 @@ function error(input, message){
 };
 
 function success(input, message){
-    console.log('working');
+    console.log(input.classList + ' working');
 };
